@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaki2\\source\\repos\\CursoHTML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56D5B6F7-1CA9-4989-9019-33DF2BD7E95D}|CursoHTML\\CursoHTML.csproj|c:\\users\\vaki2\\source\\repos\\cursohtml\\cursohtml\\paginahtml.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56D5B6F7-1CA9-4989-9019-33DF2BD7E95D}|CursoHTML\\CursoHTML.csproj|solutionrelative:cursohtml\\paginahtml.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D5B6F7-1CA9-4989-9019-33DF2BD7E95D}|CursoHTML\\CursoHTML.csproj|c:\\users\\vaki2\\source\\repos\\cursohtml\\cursohtml\\hojaestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56D5B6F7-1CA9-4989-9019-33DF2BD7E95D}|CursoHTML\\CursoHTML.csproj|solutionrelative:cursohtml\\hojaestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HojaEstilos.css",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\CursoHTML\\CursoHTML\\HojaEstilos.css",
+              "RelativeDocumentMoniker": "CursoHTML\\HojaEstilos.css",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\CursoHTML\\CursoHTML\\HojaEstilos.css",
+              "RelativeToolTip": "CursoHTML\\HojaEstilos.css",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-01T19:22:01.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaginaHTML.html",
+              "DocumentMoniker": "C:\\Users\\vaki2\\source\\repos\\CursoHTML\\CursoHTML\\PaginaHTML.html",
+              "RelativeDocumentMoniker": "CursoHTML\\PaginaHTML.html",
+              "ToolTip": "C:\\Users\\vaki2\\source\\repos\\CursoHTML\\CursoHTML\\PaginaHTML.html",
+              "RelativeToolTip": "CursoHTML\\PaginaHTML.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-01T18:58:59.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
